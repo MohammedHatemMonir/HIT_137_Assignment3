@@ -1,4 +1,5 @@
-transformers>=4.35.0
-diffusers>=0.21.0
-torch>=2.0.0
-Pillow>=10.0.0
+transformers>=4.37.0
+torch>=1.12.0
+Pillow>=8.0.0
+numpy>=1.21.0
+tokenizers>=0.12.0
